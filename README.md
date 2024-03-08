@@ -10,6 +10,11 @@ Prompt Bot Framework utilizes the prompt engineering techniques such as:
 Zero Shot
 Few Shot
 
+  - The purpose of the prompt.
+     - How it was designed and why.
+     - Example inputs and outputs.
+     - Potential modifications or alternate applications.
+   - This portfolio will serve as both a documentation of your learning process and a reference tool for future projects.
 
 **Languages and Tools:**  
 
