@@ -1,14 +1,19 @@
 # Prompt-Bot
 ### Hi there, Welcome to the Prompt Bot 👋
 
-Framework for building bots with LLMs 
+<H1> Prompt Bot helps generate javascript code for developing a chatbot to delivering Javascript code.  This repo can assist you with getting the Javascript code you require to be generated. .</H1>
+
+This bot assists you with the prompts for building a valuable chatbot for your own website.
+
+Prompts built are intended to be used the OpenAI LLM. 
 
 <br />
 <br />
 
 Prompt Bot Framework utilizes the prompt engineering techniques such as: 
-Zero Shot
-Few Shot
+
+Zero Shot Prompt
+Few-Shot Prompt
 
   - The purpose of the prompt.
      - How it was designed and why.
