@@ -14,6 +14,7 @@ Prompt Bot Framework utilizes the prompt engineering techniques such as:
 
 Zero Shot Prompt
 Few-Shot Prompt
+Chain of Thought (COT)
 
   - The purpose of the prompt.
      - How it was designed and why.
